@@ -1,4 +1,4 @@
-# my-bakery-vue
+# My Bakery Vue
 
 ## Project setup
 ```
